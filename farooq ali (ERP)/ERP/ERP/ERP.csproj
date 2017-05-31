@@ -1,0 +1,229 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">x86</Platform>
+    <ProductVersion>8.0.30703</ProductVersion>
+    <SchemaVersion>2.0</SchemaVersion>
+    <ProjectGuid>{2827071D-0BF9-417D-B51A-49D3DDAB2739}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>ERP</RootNamespace>
+    <AssemblyName>ERP</AssemblyName>
+    <TargetFrameworkVersion>v4.0</TargetFrameworkVersion>
+    <TargetFrameworkProfile>Client</TargetFrameworkProfile>
+    <FileAlignment>512</FileAlignment>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|x86' ">
+    <PlatformTarget>x86</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|x86' ">
+    <PlatformTarget>x86</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="PresentationCore" />
+    <Reference Include="PresentationFramework" />
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xaml" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+    <Reference Include="UIAutomationProvider" />
+    <Reference Include="WindowsBase" />
+    <Reference Include="WindowsFormsIntegration" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="admin.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="admin.Designer.cs">
+      <DependentUpon>admin.cs</DependentUpon>
+    </Compile>
+    <Compile Include="cus.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="cus.Designer.cs">
+      <DependentUpon>cus.cs</DependentUpon>
+    </Compile>
+    <Compile Include="erp.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="erp.Designer.cs">
+      <DependentUpon>erp.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Form1.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form1.Designer.cs">
+      <DependentUpon>Form1.cs</DependentUpon>
+    </Compile>
+    <Compile Include="grn.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="grn.Designer.cs">
+      <DependentUpon>grn.cs</DependentUpon>
+    </Compile>
+    <Compile Include="invoice.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="invoice.Designer.cs">
+      <DependentUpon>invoice.cs</DependentUpon>
+    </Compile>
+    <Compile Include="my.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="my.Designer.cs">
+      <DependentUpon>my.cs</DependentUpon>
+    </Compile>
+    <Compile Include="po product.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="po product.Designer.cs">
+      <DependentUpon>po product.cs</DependentUpon>
+    </Compile>
+    <Compile Include="pro.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="pro.Designer.cs">
+      <DependentUpon>pro.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="purchaseorder.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="purchaseorder.Designer.cs">
+      <DependentUpon>purchaseorder.cs</DependentUpon>
+    </Compile>
+    <Compile Include="sale.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="sale.Designer.cs">
+      <DependentUpon>sale.cs</DependentUpon>
+    </Compile>
+    <Compile Include="saleinv.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="saleinv.Designer.cs">
+      <DependentUpon>saleinv.cs</DependentUpon>
+    </Compile>
+    <Compile Include="vender.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="vender.Designer.cs">
+      <DependentUpon>vender.cs</DependentUpon>
+    </Compile>
+    <EmbeddedResource Include="admin.resx">
+      <DependentUpon>admin.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="cus.resx">
+      <DependentUpon>cus.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="erp.resx">
+      <DependentUpon>erp.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Form1.resx">
+      <DependentUpon>Form1.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="grn.resx">
+      <DependentUpon>grn.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="invoice.resx">
+      <DependentUpon>invoice.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="my.resx">
+      <DependentUpon>my.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="po product.resx">
+      <DependentUpon>po product.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="pro.resx">
+      <DependentUpon>pro.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+      <DesignTime>True</DesignTime>
+    </Compile>
+    <EmbeddedResource Include="purchaseorder.resx">
+      <DependentUpon>purchaseorder.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="sale.resx">
+      <DependentUpon>sale.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="saleinv.resx">
+      <DependentUpon>saleinv.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="vender.resx">
+      <DependentUpon>vender.cs</DependentUpon>
+    </EmbeddedResource>
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\new-york-city-336475_1280.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\ii.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\webbutton.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\ll.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\o.PNG" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\oo.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\12.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\122.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\l.png" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

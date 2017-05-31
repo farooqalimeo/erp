@@ -1,0 +1,67 @@
+C:\Users\faster-pakistan\AppData\Local\Temporary Projects\ERP\bin\Debug\ERP.exe
+C:\Users\faster-pakistan\AppData\Local\Temporary Projects\ERP\bin\Debug\ERP.pdb
+C:\Users\faster-pakistan\AppData\Local\Temporary Projects\ERP\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\faster-pakistan\AppData\Local\Temporary Projects\ERP\obj\x86\Debug\ERP.Form1.resources
+C:\Users\faster-pakistan\AppData\Local\Temporary Projects\ERP\obj\x86\Debug\ERP.Properties.Resources.resources
+C:\Users\faster-pakistan\AppData\Local\Temporary Projects\ERP\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\faster-pakistan\AppData\Local\Temporary Projects\ERP\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\faster-pakistan\AppData\Local\Temporary Projects\ERP\obj\x86\Debug\ERP.exe
+C:\Users\faster-pakistan\AppData\Local\Temporary Projects\ERP\obj\x86\Debug\ERP.pdb
+C:\Users\faster-pakistan\Downloads\f\ERP\ERP\obj\x86\Debug\ERP.exe
+C:\Users\faster-pakistan\Downloads\f\ERP\ERP\obj\x86\Debug\ERP.pdb
+C:\Users\faster-pakistan\Downloads\f\ERP\ERP\bin\Debug\ERP.exe
+C:\Users\faster-pakistan\Downloads\f\ERP\ERP\bin\Debug\ERP.pdb
+C:\Users\faster-pakistan\Downloads\f\ERP\ERP\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\faster-pakistan\Downloads\f\ERP\ERP\obj\x86\Debug\ERP.Form1.resources
+C:\Users\faster-pakistan\Downloads\f\ERP\ERP\obj\x86\Debug\ERP.Properties.Resources.resources
+C:\Users\faster-pakistan\Downloads\f\ERP\ERP\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\faster-pakistan\Downloads\f\ERP\ERP\obj\x86\Debug\GenerateResource.write.1.tlog
+G:\f\ERP\ERP\obj\x86\Debug\ERP.exe
+G:\f\ERP\ERP\obj\x86\Debug\ERP.pdb
+G:\f\ERP\ERP\bin\Debug\ERP.exe
+G:\f\ERP\ERP\bin\Debug\ERP.pdb
+G:\f\ERP\ERP\obj\x86\Debug\ERP.Form1.resources
+G:\f\ERP\ERP\obj\x86\Debug\ERP.Properties.Resources.resources
+G:\f\ERP\ERP\obj\x86\Debug\ERP.csproj.GenerateResource.Cache
+G:\f\ERP\ERP\obj\x86\Debug\ERP.erp.resources
+G:\f\ERP\ERP\obj\x86\Debug\ERP.csprojResolveAssemblyReference.cache
+C:\Users\USER\Desktop\f\ERP\ERP\obj\x86\Debug\ERP.exe
+C:\Users\USER\Desktop\f\ERP\ERP\obj\x86\Debug\ERP.pdb
+C:\Users\USER\Desktop\f\ERP\ERP\bin\Debug\ERP.exe
+C:\Users\USER\Desktop\f\ERP\ERP\bin\Debug\ERP.pdb
+C:\Users\USER\Desktop\f\ERP\ERP\obj\x86\Debug\ERP.csprojResolveAssemblyReference.cache
+C:\Users\USER\Desktop\f\ERP\ERP\obj\x86\Debug\ERP.erp.resources
+C:\Users\USER\Desktop\f\ERP\ERP\obj\x86\Debug\ERP.Form1.resources
+C:\Users\USER\Desktop\f\ERP\ERP\obj\x86\Debug\ERP.Properties.Resources.resources
+C:\Users\USER\Desktop\f\ERP\ERP\obj\x86\Debug\ERP.csproj.GenerateResource.Cache
+C:\Users\USER\Desktop\f\ERP\ERP\obj\x86\Debug\ERP.product.resources
+C:\Users\USER\Desktop\f\ERP\ERP\obj\x86\Debug\ERP.vender.resources
+C:\Users\USER\Desktop\f\ERP\ERP\obj\x86\Debug\ERP.invoice.resources
+C:\Users\USER\Desktop\f\ERP\ERP\obj\x86\Debug\ERP.admin.resources
+C:\Users\USER\Desktop\f\ERP\ERP\obj\x86\Debug\ERP.cus.resources
+C:\Users\USER\Desktop\f\ERP\ERP\obj\x86\Debug\ERP.my.resources
+C:\Users\USER\Desktop\f\ERP\ERP\obj\x86\Debug\ERP.purchaseorder.resources
+C:\Users\USER\Desktop\f\ERP\ERP\obj\x86\Debug\ERP.grn.resources
+C:\Users\USER\Desktop\f\ERP\ERP\obj\x86\Debug\ERP.pro.resources
+C:\Users\USER\Desktop\f\ERP\ERP\obj\x86\Debug\ERP.sale.resources
+C:\Users\USER\Desktop\f\ERP\ERP\obj\x86\Debug\ERP.saleinv.resources
+C:\Users\USER\Desktop\farooq ali (ERP)\ERP\ERP\obj\x86\Debug\ERP.csprojResolveAssemblyReference.cache
+C:\Users\USER\Desktop\farooq ali (ERP)\ERP\ERP\obj\x86\Debug\ERP.admin.resources
+C:\Users\USER\Desktop\farooq ali (ERP)\ERP\ERP\obj\x86\Debug\ERP.cus.resources
+C:\Users\USER\Desktop\farooq ali (ERP)\ERP\ERP\obj\x86\Debug\ERP.erp.resources
+C:\Users\USER\Desktop\farooq ali (ERP)\ERP\ERP\obj\x86\Debug\ERP.Form1.resources
+C:\Users\USER\Desktop\farooq ali (ERP)\ERP\ERP\obj\x86\Debug\ERP.grn.resources
+C:\Users\USER\Desktop\farooq ali (ERP)\ERP\ERP\obj\x86\Debug\ERP.invoice.resources
+C:\Users\USER\Desktop\farooq ali (ERP)\ERP\ERP\obj\x86\Debug\ERP.my.resources
+C:\Users\USER\Desktop\farooq ali (ERP)\ERP\ERP\obj\x86\Debug\ERP.product.resources
+C:\Users\USER\Desktop\farooq ali (ERP)\ERP\ERP\obj\x86\Debug\ERP.pro.resources
+C:\Users\USER\Desktop\farooq ali (ERP)\ERP\ERP\obj\x86\Debug\ERP.Properties.Resources.resources
+C:\Users\USER\Desktop\farooq ali (ERP)\ERP\ERP\obj\x86\Debug\ERP.purchaseorder.resources
+C:\Users\USER\Desktop\farooq ali (ERP)\ERP\ERP\obj\x86\Debug\ERP.sale.resources
+C:\Users\USER\Desktop\farooq ali (ERP)\ERP\ERP\obj\x86\Debug\ERP.saleinv.resources
+C:\Users\USER\Desktop\farooq ali (ERP)\ERP\ERP\obj\x86\Debug\ERP.vender.resources
+C:\Users\USER\Desktop\farooq ali (ERP)\ERP\ERP\obj\x86\Debug\ERP.csproj.GenerateResource.Cache
+C:\Users\USER\Desktop\farooq ali (ERP)\ERP\ERP\bin\Debug\ERP.exe
+C:\Users\USER\Desktop\farooq ali (ERP)\ERP\ERP\bin\Debug\ERP.pdb
+C:\Users\USER\Desktop\farooq ali (ERP)\ERP\ERP\obj\x86\Debug\ERP.exe
+C:\Users\USER\Desktop\farooq ali (ERP)\ERP\ERP\obj\x86\Debug\ERP.pdb
